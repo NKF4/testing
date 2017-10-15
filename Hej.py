@@ -1,1 +1,2 @@
-print 'Halla'
+inte = 'hej'
+print inte
